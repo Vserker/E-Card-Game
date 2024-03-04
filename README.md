@@ -8,8 +8,8 @@ A web game symbolizing the way of the society; how kings rule the commoners, the
 Demo:
 
 
-game1.png
-game2.png
+./images/game1.png
+./images/game2.png
 
 
 
