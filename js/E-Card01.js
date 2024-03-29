@@ -23,11 +23,6 @@ function showmy(){
      mcard[i+mcardlengthby2].style.display='none'
    }
 }
-//program for adding -making a=block if all b are block- in normal show function, basically combination of both show and cover.
-
-  
-
-
 function showcom(){
    var ccard=document.getElementById('comcards').children
    var ccardlength=ccard.length
